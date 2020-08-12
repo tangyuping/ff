@@ -6,7 +6,6 @@ very sleepy
 
 to dev 
 
-<<<<<<< HEAD
 
 git branch devv
 git checkout devv 
