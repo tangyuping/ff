@@ -5,3 +5,5 @@ I want to study how to use Git.
 very sleepy
 
 to dev 
+
+git merge dev  // 合并指定分支 dev到当前分支
