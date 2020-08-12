@@ -16,6 +16,5 @@ git checkout master //切换到master分支
 git checkout -- file //撤销文件
 git chekcout branchname // 切换分支
 git switch  branchename // 新版本切换分支
-=======
+
 git merge dev  // 合并指定分支 dev到当前分支
->>>>>>> master
