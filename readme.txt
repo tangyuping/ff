@@ -7,5 +7,7 @@ very sleepy
 to dev 
 
 
-git checkout -b dev //创建dev分支  -b 并且切换到当前分支
-git checkout master //切换到master分支；创建master分支
+git branch devv
+git checkout devv 
+git checkout -b dev //创建dev分支  -b 并且切换到当前分支 相当于上面两条指令 
+git checkout master //切换到master分支
